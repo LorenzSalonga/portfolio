@@ -12,7 +12,7 @@
 #certificate {
     background-color: rgb(173, 97, 245);
 }
-#services{
+#service{
     background-color: rgb(188, 116, 255);
 }
 
@@ -20,5 +20,5 @@
     background-color: rgb(198, 138, 255);
 }
 #footer{
-    background-color: rgb(226, 194, 255);
+    background-color: blueviolet;
 }
