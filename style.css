@@ -6,19 +6,23 @@
     background-color: blueviolet;
 }
 #Work {
-    background-color: rgb(155, 64, 234);
+    background-color: blueviolet;
 }
 
 #certificate {
-    background-color: rgb(173, 97, 245);
+    background-color: blueviolet;
 }
 #service{
-    background-color: rgb(182, 121, 240);
+    background-color: blueviolet;
 }
 
 #About{
-    background-color: rgb(198, 138, 255);
+    background-color: blueviolet;
 }
 #footer{
+    background-color: rgb(144, 27, 212);
+}
+
+#contact{
     background-color: blueviolet;
 }
